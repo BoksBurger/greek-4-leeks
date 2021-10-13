@@ -1,5 +1,5 @@
-#Greek4Leeks
-###Biblical Greek Flash Cards
+# Greek4Leeks
+### Biblical Greek Flash Cards
 
 This was a quick app I made for a friend who was studying Biblical Greek.
 
