@@ -12,3 +12,7 @@ The code I actually wrote can be found in this file:
 Considerable prep went into this data file:
 
 [/Assets/woorde.json](https://github.com/BoksBurger/greek-4-leeks/blob/c3a3dc7523c33d1202a3cf14bb5925256a90fbc9/Assets/woorde.json)
+
+The live version of the app can be found here:
+
+[Greek4Leeks on the Google Play Store](https://play.google.com/store/apps/details?id=net.staalburger.greek&hl=en_ZA&gl=US)
